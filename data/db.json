@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use is? ",
+      "author": "Jakie",
+      "id": 1
+    },
+    {
+      "title": "Opening Party",
+      "body": "Why do we use is? ",
+      "author": "Amber",
+      "id": 2
+    }
+  ]
+}
